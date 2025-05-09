@@ -1,8 +1,4 @@
-# How Am I ?
-
-< img src="https://github.com/AliMohammadi00/AliMohammadi00/blob/master/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?raw=true" alt="developer image"/>
-
-<h2> Hi ✋ I am Ali Mohammadi </h2> 
+![Pacman](https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif)
 
 ```PHP
 $info = [
