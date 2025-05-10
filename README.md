@@ -19,6 +19,6 @@ $info = [
 
 <a href="https://t.me/Ali8mohammadi7">![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://instagram.com/am.w3bdev">![INESTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-### Most Used Languages
+### My Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliMohammadi00&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohammadi00&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliMohammadi00&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliMohammadi00&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliMohammadi00&theme=radical)
