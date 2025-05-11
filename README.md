@@ -8,7 +8,8 @@ $info = [
   "birthDay" =>  "2008 May, Friday",
   "student" => "Hight School Student (11th grade) in Computer",
   "languages" => ["HTML","CSS","TAILWIND","JS","JQ","PHP","MYSQLI","SQL"],
-  "goal" => "Work For Big Companies"
+  "goal" => "Work For Big Companies",
+  "learning" => "I'm learning PHP and backend"
 ]
 
 ```
