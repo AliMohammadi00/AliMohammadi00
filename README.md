@@ -18,4 +18,4 @@ $info = [
 
 ### Stay In Touch
 
-<a href="https://t.me/Ali8mohammadi7">![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://instagram.com/am.w3bdev">![INESTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="t.me/Alidev87">![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://instagram.com/am.w3bdev">![INESTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
